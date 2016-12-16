@@ -5,4 +5,4 @@
 
 | 代号 | 地点 | 微信或公众号 | 新生号 | 邮箱 | Github | 熟悉领域 | 了解领域 |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 鹄思乱想 | 北京 | ThinkInCrowd | thinkingincrowd | chengusky 爱 gmail | kenspirit | Node.js | AngularJS, Vue.js, Bootstrap, jQ |
+| 高飞 | 南京 | flyvenus | xsid_8uw7qtvlmx4r8 | gaofei20160520@gmail.com | gaofie1986 | vue.js入门中 | Semantic |
